@@ -6,6 +6,8 @@ public class ProductMain {
 		System.out.println(" Git Example");
 		
 		System.out.println(" Test 1");
+		
+		System.out.println("Updating ....");
 	}
 
 }
